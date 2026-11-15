@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Krish Mahaseth
 
 ### Aspiring AI/ML Engineer | CSE Undergraduate @ NIT Durgapur
@@ -96,9 +95,9 @@ An end-to-end ML application designed to predict residential property prices thr
 **Engineering Highlights**
 
 - Extra Trees Regressor with 300 estimators.
-- Data preprocessing, feature engineering, IQR-based outlier removal, and One-Hot Encoding.
+- Data preprocessing, feature engineering, IQR-based outlier handling, and One-Hot Encoding.
 - Reusable Scikit-learn ML pipelines.
-- Performance evaluation using MAE, MSE, RMSE, and R².
+- Performance evaluation using MAE, RMSE, and R².
 - REST API developed using FastAPI.
 - Interactive dashboard built with Streamlit and Plotly.
 - Model hosted on Hugging Face Hub.
@@ -108,8 +107,8 @@ An end-to-end ML application designed to predict residential property prices thr
 
 | Evaluation Metric | Result |
 |---|---:|
-| MAE | 77,106.38 |
-| RMSE | 119,584.35 |
+| MAE | $77,106.38 |
+| RMSE | $119,584.35 |
 | R² Score | 0.7114 |
 
 **Explore the Project**
@@ -121,18 +120,18 @@ An end-to-end ML application designed to predict residential property prices thr
 
 ---
 
-### 🎨 02. Multi-Service Mobile Application
+### 🎨 02. eSewa-Inspired Mobile App UI/UX Recreation
 
-**UI/UX Design | Figma**
+**UI/UX Design | Figma | Mobile Application Design**
 
-A mobile application interface concept that brings essential digital services together in one organized platform.
+An independent UI/UX recreation inspired by Nepal's eSewa mobile application, exploring digital payment experiences, utility services, and travel booking within a unified mobile interface.
 
 **Designed Features**
 
-- 💳 Digital Payments: Load Money, Send Money, Bank Transfer, and Remittance.
-- 📱 Utility Payments: Mobile Top-up, Electricity, Water, and Internet.
-- 🏛️ Additional Services: Government Payments, Traffic Fine Payments, and Health.
-- ✈️ Travel & Booking: Domestic Airlines, International Airlines, Hotels, and Bus Tickets.
+- 💳 **Digital Payments:** Load Money, Send Money, Bank Transfer, and Remittance.
+- 📱 **Utility Payments:** Mobile Top-up, Electricity, Water, and Internet.
+- 🏛️ **Additional Services:** Government Payments, Traffic Fine Payments, and Health Services.
+- ✈️ **Travel & Booking:** Domestic Airlines, International Airlines, Hotels, and Bus Tickets.
 
 **Design Approach**
 
@@ -141,7 +140,11 @@ A mobile application interface concept that brings essential digital services to
 - Consistent icons, colors, and visual hierarchy.
 - Structured mobile interface and wireframing.
 
+**Tools:** Figma | UI/UX Design | Mobile App Design | Wireframing
+
 🎨 **[Explore Figma Design](https://www.figma.com/design/wsvzEFHNQMaESJZN0F08GK/Untitled?node-id=1-9)**
+
+*Disclaimer: This is an unofficial, independently created educational recreation inspired by eSewa. It is not affiliated with or endorsed by eSewa. Publication of reproduced designs and assets is subject to the relevant rights and permissions.*
 
 ---
 
@@ -152,7 +155,7 @@ A mobile application interface concept that brings essential digital services to
 - Hall Representative
 - Head of Sports Committee
 - Gym Committee Head
-- Senior Coordinator – AAROHAN
+- Senior Coordinator – AAROHAN (Annual Technical Fest)
 
 ---
 
