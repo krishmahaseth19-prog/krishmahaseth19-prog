@@ -1,4 +1,5 @@
-# Krish Mahaseth
+# 👋 Hi, I'm Krish Mahaseth
+
 ### Aspiring AI/ML Engineer | CSE Undergraduate @ NIT Durgapur
 
 <p align="center">
@@ -6,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.krishmahaseth.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/krish-mahaseth"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:krishmahaseth19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.krishmahaseth.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/krish-mahaseth"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:krishmahaseth19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,44 +24,44 @@ My interests span **Artificial Intelligence, Machine Learning, Data Science, Sof
 - 🤖 Focus: Artificial Intelligence & Machine Learning
 - 📊 Interested in Data Science, Predictive Modeling & Deep Learning
 - 💻 Building end-to-end software and ML applications
-- 🎨 Exploring UI/UX Design and Prototyping with Figma
+- 🎨 Exploring UI/UX Design and Figma
 - 🔬 Research interest in payment security and user experience
-- 🤝 Open to internships, research, and meaningful collaborations
+- 🤝 Open to internships, research, and collaborations
 
 ---
 
-## 🧰 Technical Arsenal
+## 🧰 Technical Skills
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Machine Learning & Data Science**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Deep Learning & NLP**
-<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Backend, Deployment & Visualization**
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Design & Developer Tools**
-<br/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -83,14 +84,16 @@ My interests span **Artificial Intelligence, Machine Learning, Data Science, Sof
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-### 01 | House Price Prediction System
+### 🏠 01. House Price Prediction System
+
 **End-to-End Machine Learning Application**
 
 An end-to-end ML application designed to predict residential property prices through an interactive web interface.
 
 **Engineering Highlights**
+
 - Extra Trees Regressor with 300 estimators.
 - Data preprocessing, feature engineering, IQR-based outlier removal, and One-Hot Encoding.
 - Reusable Scikit-learn ML pipelines.
@@ -100,38 +103,38 @@ An end-to-end ML application designed to predict residential property prices thr
 - Model hosted on Hugging Face Hub.
 - Backend deployed on Render and frontend on Streamlit Community Cloud.
 
-**Model Results**
+**Model Performance**
 
-| Evaluation Metric | Score |
+| Evaluation Metric | Result |
 |---|---:|
 | MAE | 77,106.38 |
 | RMSE | 119,584.35 |
-| R² | 0.7114 |
+| R² Score | 0.7114 |
 
 **Explore the Project**
 
-🌐 [Live Application](https://house-price-prediction-krishma.streamlit.app/)
-
-💻 [Source Code](https://github.com/krishmahaseth19-prog/HousePricePrediction)
-
-🤗 [Hugging Face Model](https://huggingface.co/Krishmahaseth/house-price-prediction-model)
-
-⚡ [FastAPI Documentation](https://house-price-prediction-api-2q84.onrender.com/docs)
+- 🌐 [Live Application](https://house-price-prediction-krishma.streamlit.app/)
+- 💻 [GitHub Repository](https://github.com/krishmahaseth19-prog/HousePricePrediction)
+- 🤗 [Hugging Face Model](https://huggingface.co/Krishmahaseth/house-price-prediction-model)
+- ⚡ [FastAPI Documentation](https://house-price-prediction-api-2q84.onrender.com/docs)
 
 ---
 
-### 02 | Multi-Service Mobile Application
+### 🎨 02. Multi-Service Mobile Application
+
 **UI/UX Design | Figma**
 
 A mobile application interface concept that brings essential digital services together in one organized platform.
 
 **Designed Features**
-- Digital Payments: Load Money, Send Money, Bank Transfer, Remittance.
-- Utility Payments: Mobile Top-up, Electricity, Water, Internet.
-- Additional Services: Government Payments, Traffic Fine Payments, Health.
-- Travel & Booking: Domestic Airlines, International Airlines, Hotels, Bus Tickets.
+
+- 💳 Digital Payments: Load Money, Send Money, Bank Transfer, and Remittance.
+- 📱 Utility Payments: Mobile Top-up, Electricity, Water, and Internet.
+- 🏛️ Additional Services: Government Payments, Traffic Fine Payments, and Health.
+- ✈️ Travel & Booking: Domestic Airlines, International Airlines, Hotels, and Bus Tickets.
 
 **Design Approach**
+
 - Organized mobile dashboard and service categories.
 - Intuitive navigation and user-friendly interaction.
 - Consistent icons, colors, and visual hierarchy.
@@ -152,15 +155,15 @@ A mobile application interface concept that brings essential digital services to
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishmahaseth19-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmahaseth19-prog&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishmahaseth19-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmahaseth19-prog&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmahaseth19-prog&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishmahaseth19-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
@@ -170,11 +173,11 @@ A mobile application interface concept that brings essential digital services to
 I'm interested in connecting with developers, researchers, and professionals working across AI, Machine Learning, Data Science, and Software Engineering.
 
 <p align="center">
-  <a href="https://www.krishmahaseth.com.np/"><img src="https://img.shields.io/badge/Personal%20Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.krishmahaseth.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/krish-mahaseth"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:krishmahaseth19@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <i>Building intelligent solutions. Designing meaningful experiences. Learning continuously.</i>
+  <b>Building Intelligent Solutions | Designing Meaningful Experiences | Learning Continuously 🚀</b>
 </p>
